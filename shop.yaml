@@ -1,8 +1,5 @@
 server:
   port: 8080
-spring:
-  application:
-    name: shop
   h2:
     console:
       enabled: true
